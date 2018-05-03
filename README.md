@@ -1,1 +1,1 @@
-# estudos-python
+Alguns exercícios resolvidos com **python**
